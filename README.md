@@ -1,7 +1,7 @@
 Hi! 👋 My name is Dalton Tarde :)
 =======================
 
-I am currently studying Computer Science and English at SDSU
+I am currently studying Computer Science and English at San Diego State University
 
 * 🏢 I'm wrapping up my senior year of college
 * 💬 Ask me about anything!
