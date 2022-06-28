@@ -1,4 +1,4 @@
-Hi! 👋 My name is Dalton Tarde :)
+Hi there! 👋 My name is Dalton Tarde :)
 =======================
 
 I am currently studying Computer Science and English at San Diego State University
