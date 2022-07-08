@@ -8,6 +8,7 @@ I am currently studying Computer Science and English at San Diego State Universi
 * 💻 Connect with me on: [Linkedin](https://www.linkedin.com/in/dtarde)
 * ✉️ You can contact me at: [daltonttarde@gmail.com](mailto:daltonttarde@gmail.com)
 
+Proficiencies: 
 |  Java  |   Python  |  C++/C# | Swift |
 |:------:|:---------:|:-------:|:-----:|
 |   JS   |    Rust   |  Unreal | React |
