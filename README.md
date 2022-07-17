@@ -12,5 +12,5 @@ Proficiencies:
 |  Java  |   Python  |  C++/C# | Swift |
 |:------:|:---------:|:-------:|:-----:|
 |   JS   |    Rust   |  Unreal | React |
-| NodeJS | Bootstrap | Angular | Flask |
+| NodeJS | Docker | Angular | Flask |
 | Heroku |   Kotlin  | Haskell |  AWS  |
