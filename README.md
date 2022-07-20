@@ -9,7 +9,7 @@ I am currently studying Computer Science and English at San Diego State Universi
 * ✉️ You can contact me at: [daltonttarde@gmail.com](mailto:daltonttarde@gmail.com)
 
 Proficiencies: 
-|  Java  |   Python  |  C++/C# | Swift |
+|  Java  |   Python  |  C#/C++ | Swift |
 |:------:|:---------:|:-------:|:-----:|
 |   JS   |    Rust   |  Unreal | React |
 | NodeJS | Docker | Angular | Flask |
