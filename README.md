@@ -6,7 +6,7 @@ I am currently studying Computer Science and English at San Diego State Universi
 * 🏢 I'm wrapping up my senior year of college!
 * 💬 Ask me about anything~
 * 💻 Connect with me on: [Linkedin](https://www.linkedin.com/in/dtarde)
-* ✉️ You can contact me at: [daltonttarde@gmail.com](mailto:daltonttarde@gmail.com)
+* ✉️ You can contact me at: [daltonttarde@gmail.com](mailto:daltonttarde@gmail.com) !
 
 Proficiencies: 
 |  Java  |   Python  |  C#/C++ | Swift |
